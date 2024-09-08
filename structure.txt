@@ -1,0 +1,136 @@
+my-portfolio
+├── .github
+│   └── workflows
+│       └── deploy.yml
+├── .vscode
+│   ├── settings.json
+│   └── extensions.json
+├── public
+│   ├── icons
+│   │   ├── icon-192x192.png
+│   │   └── icon-512x512.png
+│   ├── images
+│   │   └── logo.png
+│   ├── videos
+│   │   └── intro.mp4
+│   ├── manifest.json
+│   └── robots.txt
+├── src
+│   ├── assets
+│   ├── components
+│   │   ├── Button.tsx
+│   │   ├── Footer.tsx
+│   │   ├── Header.tsx
+│   │   ├── timeline
+│   │   │   └── Timeline.tsx
+│   │   └── 3d
+│   │       └── 3DModel.tsx
+│   ├── context
+│   │   └── ThemeContext.tsx
+│   ├── hooks
+│   │   └── useTheme.ts
+│   ├── pages
+│   │   ├── _app.tsx
+│   │   ├── _document.tsx
+│   │   ├── index.tsx
+│   │   ├── about.tsx
+│   │   ├── projects.tsx
+│   │   ├── contact
+│   │   │   └── index.tsx
+│   │   ├── blog
+│   │   │   └── index.tsx
+│   │   └── case-studies
+│   │       └── index.tsx
+│   ├── styles
+│   │   ├── globals.css
+│   │   ├── tailwind.css
+│   │   ├── themes.css
+│   │   ├── animations.css
+│   │   └── 3d.css
+│   ├── utils
+│   │   └── api.ts
+│   └── types
+│       └── index.d.ts
+├── .eslintrc.json
+├── .prettierrc
+├── vite.config.ts
+├── postcss.config.js
+├── tailwind.config.js
+├── tsconfig.json
+├── package.json
+├── README.md
+├── Dockerfile
+└── .env.local
+
+
+
+
+
+
+
+
+
+my-portfolio
+├── .github
+│   └── workflows
+│       └── deploy.yml
+├── .vscode
+│   ├── settings.json
+│   └── extensions.json
+├── public
+│   ├── icons
+│   │   ├── icon-192x192.png
+│   │   └── icon-512x512.png
+│   ├── images
+│   │   └── logo.png
+│   ├── videos
+│   │   └── intro.mp4
+│   ├── manifest.json
+│   └── robots.txt
+├── src
+│   ├── assets
+│   │   └── (Assets such as images or fonts)
+│   ├── components
+│   │   ├── Button.tsx
+│   │   ├── Footer.tsx
+│   │   ├── Header.tsx
+│   │   ├── timeline
+│   │   │   └── Timeline.tsx
+│   │   └── 3d
+│   │       └── 3DModel.tsx
+│   ├── context
+│   │   └── ThemeContext.tsx
+│   ├── hooks
+│   │   └── useTheme.ts
+│   ├── pages
+│   │   ├── _app.tsx
+│   │   ├── _document.tsx
+│   │   ├── index.tsx
+│   │   ├── about.tsx
+│   │   ├── projects.tsx
+│   │   ├── contact
+│   │   │   └── index.tsx
+│   │   ├── blog
+│   │   │   └── index.tsx
+│   │   └── case-studies
+│   │       └── index.tsx
+│   ├── styles
+│   │   ├── globals.css
+│   │   ├── tailwind.css
+│   │   ├── themes.css
+│   │   ├── animations.css
+│   │   └── 3d.css
+│   ├── utils
+│   │   └── api.ts
+│   └── types
+│       └── index.d.ts
+├── .eslintrc.json
+├── .prettierrc
+├── vite.config.ts
+├── postcss.config.js
+├── tailwind.config.js
+├── tsconfig.json
+├── package.json
+├── README.md
+├── Dockerfile
+└── .env.local
